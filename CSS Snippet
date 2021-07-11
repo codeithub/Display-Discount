@@ -1,0 +1,10 @@
+.sale-perc {
+background-color: #D9534F;
+display: inline;
+padding: .2em .6em .3em;
+font-size: 75%;
+font-weight: bold;
+color: #fff;
+text-align: center;
+border-radius: .25em;
+}
